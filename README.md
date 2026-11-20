@@ -30,13 +30,17 @@ Utilizo projetos acadêmicos e atividades práticas para desenvolver minhas habi
 **Áreas de estudo:** Banco de Dados, Programação e Ciência de Dados.
 
 
+
 ### Projetos
 
-Aqui compartilho projetos acadêmicos, exercícios e aplicações desenvolvidas durante minha formação.
+#### [Sistema de Controle de Presença Escolar](https://github.com/alanccvieira/atividade-ALAN)
 
-Os repositórios serão organizados e documentados conforme o desenvolvimento dos projetos.
+Projeto acadêmico desenvolvido em PHP e MySQL para gerenciamento de estudantes e controle de presença escolar.
 
----
+**Tecnologias:** PHP, MySQL, HTML, CSS e JavaScript.
+
+**Status:** Projeto acadêmico — melhorias planejadas.
+
 
 ### Contato
 
